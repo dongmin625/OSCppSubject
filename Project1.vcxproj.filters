@@ -27,10 +27,21 @@
     <ClCompile Include="batch.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="sjf.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="new.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="srtf.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="test.inp" />
     <None Include="command.inp" />
     <None Include="batch.inp" />
+    <None Include="sjf.inp" />
+    <None Include="srtf.inp" />
   </ItemGroup>
 </Project>
