@@ -127,6 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="allocation.cpp" />
+    <ClCompile Include="banker.cpp" />
     <ClCompile Include="batch.cpp" />
     <ClCompile Include="command.cpp" />
     <ClCompile Include="new.cpp" />
@@ -136,6 +138,8 @@
     <ClCompile Include="test.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="allocation.inp" />
+    <None Include="banker.inp" />
     <None Include="batch.inp" />
     <None Include="command.inp" />
     <None Include="sjf.inp" />
