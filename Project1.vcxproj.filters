@@ -42,6 +42,9 @@
     <ClCompile Include="allocation.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="page.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="test.inp" />
@@ -51,5 +54,6 @@
     <None Include="srtf.inp" />
     <None Include="banker.inp" />
     <None Include="allocation.inp" />
+    <None Include="page.inp" />
   </ItemGroup>
 </Project>

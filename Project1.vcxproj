@@ -132,6 +132,7 @@
     <ClCompile Include="batch.cpp" />
     <ClCompile Include="command.cpp" />
     <ClCompile Include="new.cpp" />
+    <ClCompile Include="page.cpp" />
     <ClCompile Include="Sample1.cpp" />
     <ClCompile Include="sjf.cpp" />
     <ClCompile Include="srtf.cpp" />
@@ -142,6 +143,7 @@
     <None Include="banker.inp" />
     <None Include="batch.inp" />
     <None Include="command.inp" />
+    <None Include="page.inp" />
     <None Include="sjf.inp" />
     <None Include="srtf.inp" />
     <None Include="test.inp" />
